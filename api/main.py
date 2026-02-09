@@ -1,5 +1,5 @@
 from fastapi import FastAPI
-from api.db import get_connection
+from db import get_connection
 
 app = FastAPI()
 
