@@ -1,0 +1,16 @@
+2026-02-09 15:14:24,227 [INFO] Fetching list offset=0
+2026-02-09 15:19:03,428 [INFO] Fetching offset=0
+2026-02-09 16:02:08,428 [INFO] Fetching offset=0
+2026-02-09 16:05:17,773 [INFO] Fetching offset=0
+2026-02-09 16:11:31,581 [ERROR] Failed skillsync: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.ycombinator.com/companies/skillsync", waiting until "load"
+
+2026-02-09 16:12:09,954 [ERROR] Failed voygr: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.ycombinator.com/companies/voygr", waiting until "load"
+
+2026-02-09 16:14:45,503 [ERROR] Failed martini: Page.goto: Timeout 30000ms exceeded.
+Call log:
+  - navigating to "https://www.ycombinator.com/companies/martini", waiting until "load"
+
